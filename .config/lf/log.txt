@@ -1,0 +1,10 @@
+2023/04/16 10:37:08 hi!
+2023/04/16 10:37:08 reading file: /Users/martin/.config/lf/colors
+2023/04/16 10:37:08 unknown ansi code: 16
+2023/04/16 10:37:08 reading file: /Users/martin/.config/lf/icons
+2023/04/16 10:37:08 loading files: [/Users/martin/code/habitist/packages/server]
+2023/04/16 10:37:08 reading file: /Users/martin/.config/lf/lfrc
+2023/04/16 10:37:08 shell: ${{ w=$(tput cols) ... }} -- []
+2023/04/16 10:37:08 loading files: [/Users/martin/code/habitist/packages/server]
+2023/04/16 10:37:08 recv: set ratios 1:2:3
+2023/04/16 10:37:09 bye!
