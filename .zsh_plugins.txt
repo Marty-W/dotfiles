@@ -1,0 +1,6 @@
+# List of plugins to install
+
+zsh-users/zsh-autosuggestions
+marlonrichert/zsh-autocomplete
+zdharma-continuum/fast-syntax-highlighting
+jeffreytse/zsh-vi-mode

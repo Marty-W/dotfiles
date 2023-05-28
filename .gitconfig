@@ -1,0 +1,31 @@
+[init]
+    defaultBranch = main
+
+[user]
+	name = Martin Weber
+	email = 53663335+Marty-W@users.noreply.github.com
+[core]
+    pager = delta
+    editor = nvim
+
+[interactive]
+    diffFilter = delta --color-only --show-syntax-themes --diff-so-fancy
+
+[delta]
+    navigate = true
+    features = decorations
+    line-numbers = true
+    syntax-theme = Dracula
+
+[merge]
+    conflictstyle = diff3
+
+[diff]
+    colorMoved = default
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[maintenance]
+	repo = /Users/martin/Repos/znap
